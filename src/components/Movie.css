@@ -1,0 +1,32 @@
+main{
+    margin-top: 7rem;
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+
+.movie{
+   width: 200px;
+   display: flex;
+   flex-direction: column;
+}
+.movie:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 10px 1px #000;
+}
+
+.movie img{
+    height: 270px;
+    width: 200px;
+}
+
+.movie p {
+    padding: 5px;
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    color: #fff;
+}

@@ -1,0 +1,55 @@
+
+{
+    "filmes": [
+    {
+    "id": 1,
+    "nome": "X-Men: Dias de um Futuro Esquecido",
+    "img": "https://i.pinimg.com/564x/39/b1/e2/39b1e25ff4d10111ce777fa8f0fb35c4.jpg",
+    "trailer": "https://www.youtube.com/watch?v=w1dIkYegWuQ"
+    },
+    {
+    "id": 2,
+    "nome": "Vingadores: Guerra Infinita",
+    "img": "https://i.pinimg.com/564x/08/fd/cd/08fdcdb10d3ea186369665e683ae7deb.jpg",
+    "trailer": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
+    },
+    {
+    "id": 3,
+    "nome": "Mulan",
+    "img": "https://i.pinimg.com/564x/e8/95/ed/e895ed3897057787ccffd43a13309135.jpg",
+    "trailer": "https://www.youtube.com/watch?v=AD5cvVk-4Ps"
+    },
+    {
+     "id": 4,
+     "nome": "Avatar 2",
+     "img": "https://i.redd.it/al3rvdwotyf21.png",
+     "trailer": "https://www.youtube.com/watch?v=V-0GkangoHM"
+    },
+    {
+    "id": 5,
+    "nome": "O resgate",
+    "img": "https://image.tmdb.org/t/p/original/wlfDxbGEsW58vGhFljKkcR5IxDj.jpg",
+    "trailer": "https://www.youtube.com/watch?v=GMKKq_bYd0E"
+    },
+    {
+    "id": 6,
+    "nome": "O homem de ferro",
+    "img": " https://image.tmdb.org/t/p/original/75CyGj7XjM3duSh0ykuX9v4GtMD.jpg",
+    "trailer": "https://www.youtube.com/watch?v=xXAdp_KJ-0A"
+    },
+    {
+    "id": 7,
+    "nome": "Deadpool",
+    "img": "https://static.shanchuangjiaoyu.com/uploads/20210807/226797f2a4c8ab00ffb6afb71c55a3b9.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=Q9X-bAE8KTc&t=111s"
+    },
+    {
+    "id": 8,
+    "nome": "Senhor e Senhora Smith",
+    "img": "https://1.bp.blogspot.com/-gW2De2Bue_Y/UaJP5pA-UmI/AAAAAAAAMd4/CAv7HBSJjeI/s1600/e1nnb5hq4xDJoGZHhfpgmpTcBOX.jpg",
+    "trailer": "https://www.youtube.com/watch?v=CZ0B22z22pI"
+    }
+    ]
+    }
+
+   
