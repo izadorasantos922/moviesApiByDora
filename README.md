@@ -1,6 +1,7 @@
 # Movies API by Dora
 
-[English Version](#english-version)  
+[English Version](#english-version)  |  [Versão-em-Português](#vers%C3%A3o-em-portugu%C3%AAs)
+
 ## English Version
 
 ### Welcome to the Movies API by Dora Repository!
@@ -38,3 +39,43 @@ This repository contains a React-based project that displays movie data fetched 
    npm start
    ```
 5. Open your browser and visit `http://localhost:3000` to view the application.
+
+---
+
+## Versão em Português
+
+### Bem-vindo ao Repositório Movies API by Dora!
+
+Este repositório contém um projeto baseado em React que exibe dados de filmes obtidos de um arquivo JSON. Foi projetado para praticar a renderização de dados dinâmicos, trabalhar com componentes React e criar uma interface de usuário atraente.
+
+### Funcionalidades
+- Exibe uma lista de filmes com detalhes como título, diretor, ano de lançamento e gênero.
+- Interface interativa para navegar pelas informações dos filmes.
+- Componentes React modulares e reutilizáveis.
+- Design limpo e responsivo.
+
+### Tecnologias Utilizadas
+- **React.js**: Para construir a interface do usuário e gerenciar componentes.
+- **JavaScript (ES6+)**: Para implementar lógica e interatividade.
+- **CSS**: Para estilização e layout.
+- **JSON**: Como fonte de dados.
+
+### Como Começar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/izadorasantos922/moviesApiByDora.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd moviesApiByDora
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm start
+   ```
+5. Abra seu navegador e visite `http://localhost:3000` para visualizar a aplicação.
